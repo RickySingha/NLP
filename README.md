@@ -1,2 +1,2 @@
 # NLP
-6th sem Natural Language Processing Exercise Questions
+This repository contains 6th sem Natural Language Processing Exercise Questions
